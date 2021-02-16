@@ -1,0 +1,59 @@
+body{
+	text-align: left;
+	font-family:Helvetica;
+	color: white;
+	background-image: url(Imagens/wallpaper.jpg);
+	background-size: cover;
+}
+
+h1{
+	font-size: 70px;
+	padding-top: 100px;
+	text-shadow: 2px 2px 2px grey;
+	margin-bottom: 10px;
+	margin-left: 165px;
+
+}
+
+p{
+	font-size: 26px;
+	margin-left: 330px;	
+
+}
+ .paragrafo{
+ 	margin-bottom:50px;
+ }
+
+.botao{
+	text-decoration: none;
+	background-color: grey;
+	color: white;
+	margin-left: 370px;
+	font-size: 15px;
+	padding: 10px 15px 10px 15px;
+	border-radius: 4px;
+	border: 2px dotted white;
+	
+
+}
+
+.botao:hover {
+	background-color: rgba(0,0,208,0.7);
+}
+
+.lista{
+	list-style: none;
+	padding-left: 0px;
+	margin-top: 100px;
+	margin-left: 375px;
+
+}
+.lista a{
+	color:rgba(0,0,208,0.7);
+	font-size: 50px;
+
+}
+
+.lista li{
+	display: inline;
+}
